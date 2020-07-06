@@ -1,14 +1,20 @@
-============================================================================
-                 WIN32 APPLICATION : XXX Project Overview
-============================================================================
+=============================================================================
+                  WIN32 APPLICATION : XXX Project Overview
+=============================================================================
 Reference site for complete tutorial:
 https://www.xoax.net/cpp/crs/win32/index.php
 
-Note: Win32 AppWizard will create a folder which will contain the summary of
-      following files that makes up your XXX application.
-
+/////////////////////////////////////////////////////////////////////////////
+Note:
+    Win32 AppWizard will create a folder which will contain the summary of
+    following files that makes up your XXX application.
+    
+Other notes:
+    AppWizard uses "TODO:" comments to indicate parts of the source code you
+    should add to or customize.
 /////////////////////////////////////////////////////////////////////////////
 Source files:
+
 XXX.vcproj
     This is the main project file for VC++ projects generated using an Application Wizard.
     It contains information about the version of Visual C++ that generated the file, and
@@ -46,11 +52,5 @@ Other standard files:
 StdAfx.h, StdAfx.cpp
     These files are used to build a precompiled header (PCH) file
     named XXX.pch and a precompiled types file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
 
 /////////////////////////////////////////////////////////////////////////////
