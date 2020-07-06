@@ -10,7 +10,7 @@ Note:
     following files that makes up your XXX application.
     
 Other notes:
-    AppWizard uses "TODO:" comments to indicate parts of the source code you
+    Win32 AppWizard uses "TODO:" comments to indicate parts of the source code you
     should add to or customize.
 /////////////////////////////////////////////////////////////////////////////
 Source files:
