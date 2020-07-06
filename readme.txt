@@ -1,6 +1,6 @@
-========================================================================
-               WIN32 APPLICATION : XXX Project Overview
-========================================================================
+============================================================================
+                 WIN32 APPLICATION : XXX Project Overview
+============================================================================
 Note: Win32 AppWizard will create a folder which will contain the summary of
       files that makes up your XXX application.
       
