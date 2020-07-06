@@ -7,7 +7,7 @@ https://www.xoax.net/cpp/crs/win32/index.php
 /////////////////////////////////////////////////////////////////////////////
 Note:
     Win32 AppWizard will create a folder which will contain the summary of
-    following files that makes up your XXX application.
+    following important files that makes up your XXX application.
     
 Other notes:
     Win32 AppWizard uses "TODO:" comments to indicate parts of the source code
