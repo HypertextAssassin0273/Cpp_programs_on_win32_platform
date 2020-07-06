@@ -3,7 +3,7 @@
 ========================================================================
 **Note:** Win32 AppWizard will create a folder which will contain the summary of files that makes up your XXX application.
 **Reference:** https://www.xoax.net/cpp/crs/win32/index.php
-///////////////////////////////////////////////////////////////////////////// /
+///////////////////////////////////////////////////////////////////////////// / \
 Source files:
 XXX.vcproj
     This is the main project file for VC++ projects generated using an Application Wizard.
