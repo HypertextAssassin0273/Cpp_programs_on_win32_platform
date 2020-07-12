@@ -1,10 +1,10 @@
-===============================================================================
-                          WIN32 APPLICATION OVERVIEW
-===============================================================================
+==================================================================================
+                           WIN32 APPLICATION OVERVIEW
+==================================================================================
 Reference site for complete tutorial:
 https://www.xoax.net/cpp/crs/win32/index.php
 
-///////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////
 Note:
     Win32 AppWizard will create a folder which will contain the summary of
     following important files that makes up your XXX (i.e. assumption) application.
@@ -13,7 +13,7 @@ Other notes:
     Win32 AppWizard uses "TODO:" comments to indicate parts of the source code
     you should add to or customize.
     
-///////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////
 Source files:
 
 XXX.vcproj
@@ -25,7 +25,7 @@ XXX.vcproj
 XXX.cpp
     This is the main application source file.
 
-///////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////
 Resource files:
 
 XXX.rc
@@ -47,11 +47,11 @@ small.ico
     of the application's icon. This icon is included by the main resource
     file XXX.rc.
 
-///////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////
 Other standard files:
 
 StdAfx.h, StdAfx.cpp
     These files are used to build a precompiled header (PCH) file named
     XXX.pch and a precompiled types file named StdAfx.obj.
 
-///////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////
