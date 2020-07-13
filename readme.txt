@@ -1,5 +1,5 @@
 ==================================================================================
-                           WIN32 APPLICATION OVERVIEW
+                WIN32 APPLICATION OVERVIEW FOR VISUAL STUDIO USERS
 ==================================================================================
 Reference site for complete tutorial:
 https://www.xoax.net/cpp/crs/win32/index.php
