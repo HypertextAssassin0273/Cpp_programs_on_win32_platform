@@ -1,9 +1,7 @@
 ==================================================================================
                 WIN32 APPLICATION OVERVIEW FOR VISUAL STUDIO USERS
 ==================================================================================
-Reference site for complete tutorial:
-https://www.xoax.net/cpp/crs/win32/index.php
-
+For complete tutorial, <a href="https://www.xoax.net/cpp/crs/win32/index.php/">click here</a>
 //////////////////////////////////////////////////////////////////////////////////
 Note:
     Win32 AppWizard will create a folder which will contain the summary of
